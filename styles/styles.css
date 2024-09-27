@@ -1,6 +1,6 @@
 .background{
   background-color: hsl(30, 54%, 90%);
-  text-align: center;
+  
   width: 50%;
   margin-left: auto;
   margin-right: auto;
@@ -11,9 +11,8 @@
 
 .omelette{
   
-  margin-right: 5%;
-  margin-left: 5%;
-  width: 70%;
+  border: 20px;
+  width: 100%;
   
 }
 
